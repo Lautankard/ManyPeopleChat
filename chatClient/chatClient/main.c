@@ -2,8 +2,8 @@
 //  main.c
 //  chatClient
 //
-//  Created by 陈鹰 on 17/5/18.
-//  Copyright © 2017年 chen ying. All rights reserved.
+//  Created by Tankard on 17/5/18.
+//  Copyright © 2017年 Tankard. All rights reserved.
 //
 
 #include <stdio.h>
